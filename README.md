@@ -61,6 +61,7 @@ telegram links:
 - [Ilsur Yaleev]( https://t.me/i_yaleev)
 - [Alexander Zubov](https://t.me/dump5)
 
+## Project Description
 # ПРЕДСКАЗАТЕЛЬНАЯ МОДЕЛЬ ПО ПОДБОРУ ИНДИВИДУАЛЬНОЙ ХИМИИ НА ОСНОВЕ ИИ
 проект создан для : нефтегазовых , нефтехимических и сервесных компаний
 # ЦЕЛЬ 
