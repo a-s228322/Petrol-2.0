@@ -4,7 +4,7 @@
 
 ## Links
 
-- [Repo]([https://github.com/Rohit19060/<project-name>](https://github.com/DarkPrinceWarrior/Petrol-2.0) "<project-name> Repo")
+- [Repo](https://github.com/DarkPrinceWarrior/Petrol-2.0 "<project-name> Repo")
 
 - [Live](<Homepage url> "Live View")
 
