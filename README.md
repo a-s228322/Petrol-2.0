@@ -2,19 +2,9 @@
 
 <p align="center"><project-description></p>
 
-## Links
-
-- [Repository](https://github.com/DarkPrinceWarrior/Petrol-2.0 "<Petrol prediction> Repository")
-
-- [Live](<Homepage url> "Live View")
-
-- [Bugs](https://github.com/Rohit19060/<project-name>/issues "Issues Page")
-
-- [API](<API Link> "API")
-
 ## Screenshots
 
-![Home Page](/screenshots/1.png "Home Page")
+![Home Page](/static/images/preview.jpg "Home Page")
 
 ![](/screenshots/2.png)
 
