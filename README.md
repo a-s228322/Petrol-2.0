@@ -56,10 +56,10 @@ For running the server file on you can use this command.
 ## Author
 
 **Ruslan Safaev, Ilsur Yaleev, Alexander Zubov**
-
-- [telegram](https://t.me/MabelHUGO)
-- [telegram]( https://t.me/i_yaleev)
-- [telegram](https://t.me/dump5)
+telegram links:
+- [Ruslan Safaev](https://t.me/MabelHUGO)
+- [Ilsur Yaleev]( https://t.me/i_yaleev)
+- [Alexander Zubov](https://t.me/dump5)
 
 ## 🤝 Support
 
