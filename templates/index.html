@@ -1,9 +1,38 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-    <title>Item Details</title>
-    <link href="{{ url_for('static', path='/styles.css') }}" rel="stylesheet">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Upload page</title>
+<!--    <link href="{{ url_for('static', path='/styles.css') }}" rel="stylesheet">-->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css">
 </head>
 <body>
-    <h1>Hello</h1>
+<section class="vh-100" style="background-color: #eee;">
+  <div class="container py-5 h-100">
+    <div class="row d-flex justify-content-center align-items-center h-100">
+      <div class="col col-lg-9 col-xl-7">
+        <div class="card rounded-3">
+          <div class="card-body p-4">
+
+            <h3 class="text-center my-3 pb-3">Загрузка файла .excel параметров нефти</h3>
+
+            <form class="row" action="/upload" method="post" enctype="multipart/form-data">
+                <label for="excelFile">Выберите ексель файл с данными нефти</label>
+                <input type="file" id="excelFile" name="file" onchange="enableSubmitBtn();"><br><br>
+                <input type="submit" id="submitBtn" value="Отправить на обработку" disabled>
+            </form>
+            <script>
+                 function enableSubmitBtn() {
+                    document.getElementById('submitBtn').removeAttribute("disabled");
+                 }
+            </script>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 </body>
 </html>
