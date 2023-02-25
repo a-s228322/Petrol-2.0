@@ -18,25 +18,25 @@ Folders:
  - original - оригинальняа дата, которая неструктурирована, по сути все данные с установки
  - data_new - переделанная и объединенная дата, которая далее в коде разбивается на вход и выход у ML алгоритма
  
-### `Dataset:`
+### `Input_user_data:`
 
-Builds the app for production to the `build` folder. It correctly bundles React in production mode and optimizes the build for the best performance. The build is minified and the filenames include the hashes. Your app will be ready to deploy!
+Содержит то, как должны выглядетьвходные данные от пользователя в формате xlsx, то есть подающиеся на вход алгоритму
 
-### `Dataset:`
+### `Notebooks:`
 
-Launches the test runner in the interactive watch mode.
+Содержит один ноутбук файл, где произодились расчеты, анализ данных, выполнение моделей машинного обучения
  
-### `Dataset:`
+### `Saved_models:`
 
-For running the server and app together I am using concurrently this helps a lot in the MERN application as it runs both the server (client and server) concurrently. So you can work on them both together.
+Содержит одну сохраненную содель сложной регрессии, которая выполляет предсказание параметров нефти после химии
 
-### `Dataset:`
+### `Static:`
 
-For running the server file on you can use this command.
+Содержит стили css и папку изображения: превью и заставку
 
-### `Dataset:`
+### `Templates:`
  
-For running the server file on you can use this command.
+Содержит файл html, главная страница приложения
 
 ## Built With
 
