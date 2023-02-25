@@ -7,6 +7,11 @@
 ![Home Page](/static/images/preview.jpg "Home Page")
 
 ![](/screenshots/2.png)
+ 
+  
+### `Work process:`
+ 
+- 
 
 ## Project structure
 
