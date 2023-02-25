@@ -4,7 +4,7 @@
 
 ## Links
 
-- [Repo](https://github.com/DarkPrinceWarrior/Petrol-2.0 "<Petrol prediction> Repo")
+- [Repo](https://github.com/DarkPrinceWarrior/Petrol-2.0 "<Petrol prediction> Repository")
 
 - [Live](<Homepage url> "Live View")
 
