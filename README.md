@@ -46,7 +46,12 @@ For running the server file on you can use this command.
 
 ## Future Updates
 
-- [] Reliable Storage
+- [ ] ML model optimization - MLOps
+- [ ] New relevant data from other sources
+- [ ] Scaling the dataset into more features
+- [ ] Switch to new interface and more functionality
+- [ ] Deployment 
+
 
 ## Author
 
