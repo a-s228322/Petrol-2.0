@@ -8,8 +8,6 @@
 
 ![](/screenshots/2.png)
 
-![](/screenshots/3.png)
-
 ## Available Commands
 
 In the project directory, you can run:
