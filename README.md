@@ -55,11 +55,11 @@ For running the server file on you can use this command.
 
 ## Author
 
-**Rohit Jain**
+**Ruslan Safaev, Ilsur Yaleev, Alexander Zubov**
 
-- [Profile](https://github.com/rohit19060 "Rohit jain")
-- [Email](mailto:rohitjain19060@gmail.com?subject=Hi "Hi!")
-- [Website](https://kingtechnologies.in "Welcome")
+- [telegram](https://t.me/MabelHUGO)
+- [telegram]( https://t.me/i_yaleev)
+- [telegram](https://t.me/dump5)
 
 ## 🤝 Support
 
